@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Programa9\bin\Debug\Programa9.exe.config
+C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Programa9\bin\Debug\Programa9.exe
+C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Programa9\bin\Debug\Programa9.pdb
+C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Programa9\obj\Debug\Programa9.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Programa9\obj\Debug\Programa9.exe
+C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Programa9\obj\Debug\Programa9.pdb

@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Proyecto6\bin\Debug\Proyecto6.exe.config
+C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Proyecto6\bin\Debug\Proyecto6.exe
+C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Proyecto6\bin\Debug\Proyecto6.pdb
+C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Proyecto6\obj\Debug\Proyecto6.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Proyecto6\obj\Debug\Proyecto6.exe
+C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Proyecto6\obj\Debug\Proyecto6.pdb
