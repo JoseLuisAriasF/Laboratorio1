@@ -4,3 +4,9 @@ C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\P
 C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Programa8\obj\Debug\Programa8.csproj.CoreCompileInputs.cache
 C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Programa8\obj\Debug\Programa8.exe
 C:\Users\Administrador\Desktop\VI CICLO\PROGRA II\LAB\Lab1_Consola_AriasFlores\Programa8\obj\Debug\Programa8.pdb
+C:\Users\Administrador\Desktop\Laboratorio1\Lab1_Consola_AriasFlores\Programa8\bin\Debug\Programa8.exe.config
+C:\Users\Administrador\Desktop\Laboratorio1\Lab1_Consola_AriasFlores\Programa8\bin\Debug\Programa8.exe
+C:\Users\Administrador\Desktop\Laboratorio1\Lab1_Consola_AriasFlores\Programa8\bin\Debug\Programa8.pdb
+C:\Users\Administrador\Desktop\Laboratorio1\Lab1_Consola_AriasFlores\Programa8\obj\Debug\Programa8.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Desktop\Laboratorio1\Lab1_Consola_AriasFlores\Programa8\obj\Debug\Programa8.exe
+C:\Users\Administrador\Desktop\Laboratorio1\Lab1_Consola_AriasFlores\Programa8\obj\Debug\Programa8.pdb

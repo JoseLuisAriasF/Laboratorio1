@@ -14,6 +14,7 @@ namespace Programa_3
             string apellido;
             int edad;
             string sexo;
+            string probando;
 
             Console.WriteLine("Ingrese nombre:");
             nombre = Console.ReadLine();
